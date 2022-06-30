@@ -52,14 +52,14 @@ features                                  :
     fontawesome_icon_name                 : sync
 
   - title                                 : 塔机电子档案
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    description                           : 塔机全生命周期拆装、检查及运行记录
     fontawesome_icon_name                 : adjust
   
   - title                                 : 塔机生命周期档案
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
+  - title                                 : 远程视频监控
     description                           : Display a smart app banner on iOS devices.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
